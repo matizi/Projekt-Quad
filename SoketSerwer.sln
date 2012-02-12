@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SoketSerwer", "SoketSerwer\SoketSerwer.vcxproj", "{2046B0E9-C286-4681-A0A2-968747BA5527}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SoketKlient", "SoketKlient\SoketKlient.vcxproj", "{132DFF31-C349-48E9-858C-6020A7BA07F8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2046B0E9-C286-4681-A0A2-968747BA5527}.Debug|Win32.ActiveCfg = Debug|Win32
+		{2046B0E9-C286-4681-A0A2-968747BA5527}.Debug|Win32.Build.0 = Debug|Win32
+		{2046B0E9-C286-4681-A0A2-968747BA5527}.Release|Win32.ActiveCfg = Release|Win32
+		{2046B0E9-C286-4681-A0A2-968747BA5527}.Release|Win32.Build.0 = Release|Win32
+		{132DFF31-C349-48E9-858C-6020A7BA07F8}.Debug|Win32.ActiveCfg = Debug|Win32
+		{132DFF31-C349-48E9-858C-6020A7BA07F8}.Debug|Win32.Build.0 = Debug|Win32
+		{132DFF31-C349-48E9-858C-6020A7BA07F8}.Release|Win32.ActiveCfg = Release|Win32
+		{132DFF31-C349-48E9-858C-6020A7BA07F8}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

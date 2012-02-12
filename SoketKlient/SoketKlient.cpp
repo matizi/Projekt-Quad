@@ -60,7 +60,7 @@ int _tmain(int argc, char *argv[])
     WSADATA wsd;
     SOCKET sClient;
     char szBuffer[DEFAULT_BUFFER];
-    int ret, i, qwe;
+    int ret, i;
     struct sockaddr_in server;
     struct hostent *host = NULL;
 
